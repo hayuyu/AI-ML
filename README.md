@@ -1,4 +1,4 @@
-# AI-ML
+# AI-ML related readings
 
 ## Economics, society, ethics:
    - The Second Machine Age, Erik Brynjolfsson & Andrew McAfee, 2016
