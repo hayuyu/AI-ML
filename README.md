@@ -1,5 +1,6 @@
 # AI-ML related readings
-
+## Explainable/Interpretable AI:
+- awesome-machine-learning-interpretability https://github.com/jphall663/awesome-machine-learning-interpretability 
 ## Economics, society, ethics:
    - The Second Machine Age, Erik Brynjolfsson & Andrew McAfee, 2016 👍
    - Machine, Platform, Crowd: Harnessing Our Digital Future, 2017 
